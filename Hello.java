@@ -1,10 +1,9 @@
-public class Test {
-
-public static void main(String[] args){
-
-    for(String s : args){
-	System.out.println(s);
+publc class Hello
+  {
+    public static void main(String args[])
+    {
+    System.out.println("Bienvenu sur java");
+    
     }
-	
-    }
-}
+ 
+ }
